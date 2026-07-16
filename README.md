@@ -1,17 +1,22 @@
-🎓 Student Management System (Advanced DBMS Project)
-
-A professional Student Management System developed using Python, Tkinter, and MySQL. This project demonstrates real-world implementation of Database Management System (DBMS) concepts through a user-friendly desktop application.
-
----
-
-🚀 Overview
-
-This application enables efficient management of student records, subjects, and marks while showcasing advanced SQL concepts such as DDL, DML, TCL, and SQL JOIN operations. It is suitable for academic demonstrations, mini projects, and portfolio development.
+**🎓 Student Management System | Advanced DBMS Project
+**
+A professional Student Management System built with Python, Tkinter, and MySQL. This project clearly highlights core DBMS concepts through a practical, user-friendly desktop application designed for academic and portfolio use.
 
 ---
 
-✨ Key Features
+**🚀 Project Highlights
+**
+This application is designed to manage student records, subjects, and marks efficiently while demonstrating advanced SQL concepts such as DDL, DML, TCL, and SQL JOIN operations. It is ideal for:
 
+- Academic demonstrations
+- Mini projects
+- DBMS practical submissions
+- Portfolio development
+
+---
+
+**✨ Key Features
+**
 👨‍🎓 Student Management
 
 - Add new student records
@@ -19,53 +24,53 @@ This application enables efficient management of student records, subjects, and 
 - Delete student records
 - Search students instantly
 
-📚 Subject & Marks Management
-
+**📚 Subject & Marks Management
+**
 - Add and manage subjects
 - Assign marks to students
 - View complete academic records
 
-🗄️ Database Operations
-
+**🗄️ Database Operations
+**
 - Automatic database creation
 - Automatic table creation
 - Foreign key relationships
 - Data validation
 
-⚡ SQL Concepts Demonstrated
-
-DDL (Data Definition Language)
-
+**⚡ SQL Concepts Demonstrated
+**
+**DDL (Data Definition Language)
+**
 - CREATE DATABASE
 - CREATE TABLE
 - ALTER TABLE (where applicable)
 
-DML (Data Manipulation Language)
-
+**DML (Data Manipulation Language)
+**
 - INSERT
 - UPDATE
 - DELETE
 - SELECT
 
-TCL (Transaction Control Language)
-
+**TCL (Transaction Control Language)
+**
 - COMMIT
 - ROLLBACK
 
-SQL JOIN Operations
-
+**SQL JOIN Operations
+**
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
 
-📊 Export Feature
-
+**📊 Export Feature
+**
 - Export student records to CSV
 - Export marks reports to CSV
 - Easy data sharing and backup
 
-🎨 Modern User Interface
-
+**🎨 Modern User Interface
+**
 - Dark-themed GUI
 - Interactive dashboard
 - User-friendly navigation
@@ -73,8 +78,8 @@ SQL JOIN Operations
 
 ---
 
-🛠️ Tech Stack
-
+**🛠️ Tech Stack
+**
 - Language: Python 3.x
 - GUI: Tkinter & ttk
 - Database: MySQL
@@ -82,8 +87,8 @@ SQL JOIN Operations
 
 ---
 
-📂 Project Structure
-
+**📂 Project Structure
+**
 student_management_system/
 │
 ├── student_management_system.py
@@ -92,8 +97,8 @@ student_management_system/
 
 ---
 
-⚙️ Installation
-
+**⚙️ Installation
+**
 1. Clone the Repository
 
 git clone https://github.com/smrnchoubey-ops/student_management_system.git
@@ -130,14 +135,14 @@ No manual SQL setup is required.
 
 ---
 
-▶️ Run the Project
-
+**▶️ Run the Project
+**
 python student_management_system.py
 
 ---
 
-🗃️ Database Schema
-
+**🗃️ Database Schema
+**
 Students
 
 Column| Description
@@ -168,8 +173,8 @@ marks| Student Marks
 
 ---
 
-📸 Application Highlights
-
+**📸 Application Highlights
+**
 - Student Registration
 - Subject Management
 - Marks Management
@@ -181,8 +186,8 @@ marks| Student Marks
 
 ---
 
-❗ Troubleshooting
-
+**❗ Troubleshooting
+**
 Unable to Connect to MySQL
 
 - Verify that MySQL Server is running.
@@ -197,8 +202,8 @@ pip install mysql-connector-python
 
 ---
 
-🎯 Learning Outcomes
-
+**🎯 Learning Outcomes
+**
 This project demonstrates practical implementation of:
 
 - Database Management Systems (DBMS)
@@ -214,8 +219,8 @@ This project demonstrates practical implementation of:
 
 ---
 
-👨‍💻 Author
+**👨‍💻 Author
+**
+Kshama Chaturvedi 
 
-Kshama Chaturvedi
-
-If you found this project helpful, consider giving the repository a ⭐ on GitHub.
+**If you found this project helpful, consider giving the repository a ⭐ on GitHub.**
